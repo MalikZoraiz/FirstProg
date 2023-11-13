@@ -16,5 +16,8 @@ print(Number)
 numbers = [1, 2, 3, 4, 5]
 print(1 in numbers)
 
+numbers = [1, 2, 3, 4, 5]
+print(len(numbers))
+
 numbers.clear()
 print(numbers)
