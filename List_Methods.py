@@ -12,3 +12,9 @@ print(Number)
 
 Number.remove(6)
 print(Number)
+
+numbers = [1, 2, 3, 4, 5]
+print(1 in numbers)
+
+numbers.clear()
+print(numbers)
